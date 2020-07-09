@@ -23,7 +23,7 @@ else:
 
 TAJNYKOD = [random.randint(0,9) for n in range(4)]
 
-print(f"I've generated a random 4 digit number for you. {TAJNYKOD}")
+print(f"I've generated a random 4 digit number for you.")
 print(f"Let's play!")
 print(ODDELOVAC)
 ZACATEK = time.time()
